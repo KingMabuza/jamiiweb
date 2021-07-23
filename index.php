@@ -12,7 +12,7 @@
 <body>
 <nav class="nav transparent z-depth-0">
     <div class="nav-wrapper">
-        <div class="brand-logo center black-text"><a href="index.php"><img src="static/jamii.png" height="190px"/></a></div>
+        <div class="brand-logo center black-text"><a href="index.php"><img src="main/static/jamii.png" height="190px"/></a></div>
         <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons black-text">menu</i></a>
         <ul class="right hide-on-med-and-down">
             <li><a href="#afcfta" class="black-text">Why AfCFTA</a></li>
