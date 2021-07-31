@@ -18,6 +18,8 @@
             <li><a href="#afcfta" class="black-text">Why AfCFTA</a></li>
             <li><a href="#faq" class="black-text">FAQ</a></li>
             <li><a href="#contact" class="black-text">Contact</a></li>
+            <li><a href="login.php" class="black-text">Login</a></li>
+            <li><a href="signup.php" class="black-text">Sign Up</a></li>
         </ul>
     </div>
 </nav>
